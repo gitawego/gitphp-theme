@@ -12,3 +12,7 @@ modify path/to/gitphp/config/gitphp.conf.php, add following config
 ```
 $gitphp_conf['stylesheet'] = 'gitweb.css';
 ```
+
+
+###screenshot
+![ScreenShot](http://imagizer.imageshack.us/a/img834/4294/ys15.png)
